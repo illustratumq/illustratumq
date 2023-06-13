@@ -14,7 +14,7 @@ database visualization.
 
 ## My statistic
 
-<p align="center">[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=illustratumq&hide=contribs,stars&2&show_icons=true&title_color=4fc575&layout=pie)](https://github.com/anuraghazra/github-readme-stats)</p>
+<div align="center">[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=illustratumq&hide=contribs,stars&2&show_icons=true&title_color=4fc575&layout=pie)](https://github.com/anuraghazra/github-readme-stats)</div>
 
 ## Contact me:
   - **Telegram** - @engineer_spock
