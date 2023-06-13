@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi there 🖖
 
-<!--
-**illustratumq/illustratumq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me 📝
 
-Here are some ideas to get you started:
+😎 I`m a Python developer from Ukraine. My interest area is a: telegram bots, parsing, websites, database engineering, 
+database visualization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I have been working as a freelancer for 1 year. For this time i did about 10 telegram bots for my clients. 
+
+🎸 My hobby is music, logo design and microelectronics circuit engineering. 
+
+## My statistic
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=illustratumq&hide=contribs,stars&2&show_icons=true&title_color=4fc575&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
+## Contact me:
+  - **Telegram** - @engineer_spock
